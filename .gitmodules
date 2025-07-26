@@ -1,3 +1,0 @@
-[submodule "lora_driver/rp2040-freertos-lora1280"]
-	path = lora_driver/rp2040-freertos-lora1280
-	url = https://github.com/ngrabbs/rp2040-freertos-lora1280.git
